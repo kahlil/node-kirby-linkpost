@@ -28,7 +28,7 @@ and call
 klp 'Title Of Post' http://externallink.com
 ```
 
-The external link is optional.
+The second argument providing the external link is optional.
 
 The script will create a new directory in `/content/01-blog/`. The name of of the directory will be prefixed with the correct number followed by a slug generated from the provided title of the post.
 
