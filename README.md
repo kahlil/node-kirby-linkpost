@@ -34,6 +34,10 @@ The script will create a new directory in `/content/01-blog/`. The name of of th
 
 Then it will create a file in that directory called `article.link.txt` and fill in the template for a link post including title and the external link if a second argument is provided.
 
+And lastly it opens that file with the `subl` command. If you want the script to open it with a different text editor you will have to provide a different command in the script directly.
+
+Just set `var callFavTextEditor = 'subl'` to the command of your choice.
+
 ## Examples
 _(Coming soon)_
 
