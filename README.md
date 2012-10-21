@@ -32,9 +32,7 @@ The second argument providing the external link is optional.
 
 The script will create a new directory in `/content/01-blog/`. The name of of the directory will be prefixed with the correct number followed by a slug generated from the provided title of the post.
 
-Then it will create a file in that directory called `article.link.txt` and fill in the template for a link post including title and external link if any is provided.
-
-If a second argument is provided it will be set as the external link of the post.
+Then it will create a file in that directory called `article.link.txt` and fill in the template for a link post including title and the external link if a second argument is provided.
 
 ## Examples
 _(Coming soon)_
