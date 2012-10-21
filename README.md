@@ -41,7 +41,7 @@ _(Coming soon)_
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [grunt](https://github.com/gruntjs/grunt).
 
 ## Release History
-_(Nothing yet)_
+v0.1.0 Initial release. No bugs. Only features. :)
 
 ## License
 Copyright (c) 2012 Kahlil Lechelt
