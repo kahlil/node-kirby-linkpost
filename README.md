@@ -1,6 +1,6 @@
-# kirby-linkpost
+# node-kirby-linkpost
 
-Create a new link post entry in a Kirby blog.
+Create a new link post entry in a Kirby blog using the command line.
 
 ## Requirements
 
