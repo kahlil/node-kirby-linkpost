@@ -1,0 +1,39 @@
+{
+  "name": "kirby-linkpost",
+  "description": "Create a new link post entry in a Kirby blog.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/kahlil/node-kirby-linkpost",
+  "author": {
+    "name": "Kahlil Lechelt",
+    "email": "kahlil@kahlil.co",
+    "url": "http://kahlil.co"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kahlil/node-kirby-linkpost.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kahlil/node-kirby-linkpost/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/kahlil/node-kirby-linkpost/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/kirby-linkpost",
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.16"
+  },
+  "keywords": [],
+  "preferGlobal": "true",
+  "bin": {
+    "klp" : "lib/kirby-linkpost.js"
+  }
+}
