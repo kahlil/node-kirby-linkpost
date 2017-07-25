@@ -1,5 +1,7 @@
 # node-kirby-linkpost
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kahlil/node-kirby-linkpost.svg)](https://greenkeeper.io/)
+
 Create a new link post entry in a Kirby blog using the command line.
 
 ## Requirements
