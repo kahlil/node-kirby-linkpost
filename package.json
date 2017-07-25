@@ -29,7 +29,7 @@
     "test": "grunt test"
   },
   "devDependencies": {
-    "grunt": "~0.3.16"
+    "grunt": "~1.0.1"
   },
   "keywords": [],
   "preferGlobal": "true",
